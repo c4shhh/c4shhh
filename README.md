@@ -2,7 +2,7 @@
 - 👀 i work on lua scripts for roblox
 - 🌱 I’m currently learning Lua and C##
 - 💞️ I’m looking to collaborate on Roblox scripts
-- 📫 How to reach me Through discord. https://discord.com/channels/@me
+- 📫 How to reach me Through discord. https://discord.gg/TGK3GmBKPJ
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Really good fortnite player almost pro
 <!---
